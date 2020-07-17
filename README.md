@@ -24,9 +24,8 @@ The possibilities are endless!
 * Customizable error messages (header, footer, and specific errors).
 * Branch friendly! Only *new* commits are checked. Commits that already exist in the repository will be skipped.
 
-Questions? Comments? Found a bug? See https://github.com/sford/yet-another-commit-checker!
+Questions? Comments? Found a bug? [Contact Mohami support](https://mohamicorp.atlassian.net/servicedesk/customer/portals)
 
-Author: [Sean Ford](https://github.com/sford)
 
 ## Quick Start
 
