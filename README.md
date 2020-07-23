@@ -1,4 +1,4 @@
-![https://mohami.io/](https://mohami.io/images/blue-logo-with-name-2888f89c.png)
+[![https://mohami.io/](https://mohami.io/images/blue-logo-with-name-2888f89c.png)](https://mohami.io)
 
 # Yet Another Commit Checker
 - [Documentation](https://mohamicorp.atlassian.net/wiki/spaces/DOC/pages/1442119700/Yet+Another+Commit+Checker+YACC+for+Bitbucket)
